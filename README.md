@@ -30,3 +30,13 @@
 |25|461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | <span style="color:green">Easy</span> | 70.2% |[Solution](problems/25.md)|
 |26|1018  | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | <span style="color:green">Easy</span> | 45.9% |[Solution](problems/1018.md)|
 |27|566  | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | <span style="color:green">Easy</span> | 58.7% |[Solution](problems/566.md)|
+|28|275  | [H-Index II](https://leetcode.com/problems/h-index-ii/) | <span style="color:#FABC60">Medium</span> | 35.4% |[Solution](problems/275.md)|
+|29|179  | [Largest Number](https://leetcode.com/problems/largest-number/) | <span style="color:#FABC60">Medium</span> | 25.6% |[Solution](problems/179.md)|
+|30|911  | [Online Election](https://leetcode.com/problems/online-election/) | <span style="color:#FABC60">Medium</span> | 46.2% |[Solution](problems/911.md)|
+|31|257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <span style="color:green">Easy</span> | 45.7%	|[Solution](problems/257.md)|
+|32|371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | <span style="color:green">Easy</span> | 51.0%	|[Solution](problems/371.md)|
+|33|463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | <span style="color:green">Easy</span> | 60.7%	|[Solution](problems/463.md)|
+|34|645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | <span style="color:green">Easy</span> | 40.5%	|[Solution](problems/645.md)|
+|35|392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | <span style="color:#FABC60">Medium</span> | 46.6%	|[Solution](problems/392.md)|
+|36|985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | <span style="color:green">Easy</span>| 64.6% |[Solution](problems/985.md)|
+|37|263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | <span style="color:green">Easy</span>| 40.5% |[Solution](problems/263.md)|
