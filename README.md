@@ -40,3 +40,16 @@
 |35|392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | <span style="color:#FABC60">Medium</span> | 46.6%	|[Solution](problems/392.md)|
 |36|985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | <span style="color:green">Easy</span>| 64.6% |[Solution](problems/985.md)|
 |37|263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | <span style="color:green">Easy</span>| 40.5% |[Solution](problems/263.md)|
+|38|93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](problems/93.md)|
+|39|125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <span style="color:green">Easy</span> | 30.9% |[Solution](problems/125.md)|
+|40|205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | <span style="color:green">Easy</span> | 37.2% |[Solution](problems/205.md)|
+|41|504 | [Base 7](https://leetcode.com/problems/base-7/) | <span style="color:green">Easy</span> | 44.8% |[Solution](problems/504.md)|
+|42|230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | <span style="color:#FABC60">Medium</span> | 51.1% |[Solution](problems/230.md)|
+|43|448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | <span style="color:green">Easy</span>  | 53.2% |[Solution](problems/448.md)|
+|44|435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | <span style="color:#FABC60">Medium</span> | 41.5% ||
+|45|343 | [Integer Break](https://leetcode.com/problems/integer-break/) | <span style="color:#FABC60">Medium</span> | 47.7% ||
+|46|395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/integer-break/) | <span style="color:#FABC60">Medium</span> | 38.5% ||
+|47|14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | <span style="color:green">Easy</span> | 33.4% |[Solution](problems/14.md)|
+|48|674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | <span style="color:green">Easy</span> | 44.2% |[Solution](problems/674.md)|
+|49|844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | <span style="color:green">Easy</span> | 45.8% |[Solution](problems/844.md)|
+|50|1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | <span style="color:#FABC60">Medium</span>  | 47.4% ||
