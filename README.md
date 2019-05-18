@@ -77,3 +77,15 @@
 |72|78 | [Subsets](https://leetcode.com/problems/subsets/) | <span style="color:#FABC60">Medium</span> | 52.5% |[Solution](problems/78.md)
 |73|332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](problems/332.md)
 |74|307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | <span style="color:#FABC60">Medium</span> | 28.4% |[Solution](problems/307.md)
+|75|218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | <span style="color:red">Hard</span> | 31.6% |[Solution](problems/218.md)
+|76|56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | <span style="color:#FABC60">Medium</span> | 35.5% |[Solution](problems/56.md)
+|77|509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | <span style="color:green">Easy</span>  | 66.7% |[Solution](problems/509.md)|
+|78|1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | <span style="color:#FABC60">Medium</span> | 58.5% |[Solution](problems/1026.md)|
+|79|983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | <span style="color:#FABC60">Medium</span> | 57.2% |[Solution](problems/983.md)|
+|80|814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | <span style="color:#FABC60">Medium</span> | 70.8% |[Solution](problems/814.md)|
+|81|912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | <span style="color:#FABC60">Medium</span> | 64.0% |[Solution](problems/912.md)|
+|82|19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | <span style="color:#FABC60">Medium</span> | 34.2% |[Solution](problems/19.md)|
+|83|773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | <span style="color:red">Hard</span> | 52.1% |[Solution](problems/773.md)
+|84|1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | <span style="color:red">Hard</span> | 72.0% |[Solution](problems/1028.md)
+|85|452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | <span style="color:#FABC60">Medium</span> | 46.3% |[Solution](problems/452.md)
+|86|433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | <span style="color:#FABC60">Medium</span> | 38.0% |[Solution](problems/433.md)
