@@ -68,7 +68,7 @@
 |63|884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | <span style="color:green">Easy</span>   | 60.7% |[Solution](problems/884.md)|
 |64|401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | <span style="color:green">Easy</span>   | 45.3% |[Solution](problems/401.md)|
 |65|17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | <span style="color:#FABC60">Medium</span>   | 41.3% |[Solution](problems/17.md)|
-|66|220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | <span style="color:#FABC60">Medium</span> | 19.7% ||
+|66|220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | <span style="color:#FABC60">Medium</span> | 19.7% |[Solution](problems/220.md)|
 |67|704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <span style="color:green">Easy</span>  | 47.2% |[Solution](problems/704.md)|
 |68|565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | <span style="color:#FABC60">Medium</span> | 52.4% |[Solution](problems/565.md)|
 |69|55 | [Jump Game](https://leetcode.com/problems/jump-game/) | <span style="color:#FABC60">Medium</span> | 31.8% |[Solution](problems/55.md)
@@ -95,3 +95,15 @@
 |90|260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | <span style="color:#FABC60">Medium</span> | 56.9% |[Solution](problems/260.md)
 |91|136 | [Single Number](https://leetcode.com/problems/single-number/) | <span style="color:green">Easy</span> | 60.0% |[Solution](problems/136.md)
 |92|587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | <span style="color:red">Hard</span> | 34.4% |[Solution](problems/587.md)
+|93|560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | <span style="color:#FABC60">Medium</span> | 42.2% |[Solution](problems/560.md)
+|94|396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | <span style="color:#FABC60">Medium</span> | 35.2% |[Solution](problems/396.md)
+|95|388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | <span style="color:#FABC60">Medium</span> | 39.3% |[Solution](problems/388.md)
+|96|867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | <span style="color:green">Easy</span> | 64.0% |[Solution](problems/867.md)
+|97|424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <span style="color:#FABC60">Medium</span> | 44.2% |[Solution](problems/424.md)
+|98|907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | <span style="color:#FABC60">Medium</span> | 27.5% |[Solution](problems/907.md)
+|99|84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <span style="color:red">Hard</span> | 31.4% |[Solution](problems/84.md)
+|100|11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <span style="color:#FABC60">Medium</span> | 45.1% |[Solution](problems/11.md)
+|101|832 | [Flipping an Image](https://leetcode.com/problems/container-with-most-water/) | <span style="color:green">Easy</span> | 72.8% |[Solution](problems/832.md)
+|102|238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | <span style="color:#FABC60">Medium</span> | 55.4% |[Solution](problems/238.md)
+|103|987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | <span style="color:#FABC60">Medium</span> | 31.9% |[Solution](problems/987.md)
+|104|486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | <span style="color:#FABC60">Medium</span> | 46.8% |[Solution](problems/486.md)
