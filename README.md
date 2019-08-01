@@ -72,7 +72,7 @@
 |67|704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <span style="color:green">Easy</span>  | 47.2% |[Solution](problems/704.md)|
 |68|565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | <span style="color:#FABC60">Medium</span> | 52.4% |[Solution](problems/565.md)|
 |69|55 | [Jump Game](https://leetcode.com/problems/jump-game/) | <span style="color:#FABC60">Medium</span> | 31.8% |[Solution](problems/55.md)
-|70|212 | [Word Break II](https://leetcode.com/problems/word-search-ii/) | <span style="color:red">Hard</span> | 28.4% |[Solution](problems/212.md)
+|70|212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | <span style="color:red">Hard</span> | 28.4% |[Solution](problems/212.md)
 |71|329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | <span style="color:red">Hard</span> | 39.8% |[Solution](problems/329.md)
 |72|78 | [Subsets](https://leetcode.com/problems/subsets/) | <span style="color:#FABC60">Medium</span> | 52.5% |[Solution](problems/78.md)
 |73|332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](problems/332.md)
@@ -256,3 +256,5 @@
 |248|90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) |  <span style="color:#FABC60">Medium</span>  | 43.1% |[Solution](problems/90.md)
 |249|51 | [N-Queens](https://leetcode.com/problems/n-queens/) | <span style="color:red">Hard</span> | 40.4% |[Solution](problems/51.md)
 |250|52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | <span style="color:red">Hard</span> | 52.9% |[Solution](problems/52.md)
+|251|127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | <span style="color:#FABC60">Medium</span> | 24.9% |[Solution](problems/127.md)
+|252|126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | <span style="color:red">Hard</span> | 18.3% |[Solution](problems/126.md)
