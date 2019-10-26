@@ -393,3 +393,17 @@
 |385|1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | <span style="color:green">Easy</span>| 59.6% |[Solution](problems/1170.md) |
 |386|1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | <span style="color:red">Hard</span>| 30.3% |[Solution](problems/1163.md) |
 |386|811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | <span style="color:green">Easy</span>| 66.6% |[Solution](problems/811.md) |
+|387|809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | <span style="color:#FABC60">Medium</span> | 45.0% |[Solution](problems/809.md) |
+|388|359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | <span style="color:green">Easy</span>| 67.1% |[Solution](problems/359.md) |
+|389|1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | <span style="color:#FABC60">Medium</span> | 64.0% |[Solution](problems/1110.md) |
+|390|1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | <span style="color:red">Hard</span>| 45.0% |[Solution](problems/1032.md) |
+|391|981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | <span style="color:#FABC60">Medium</span> | 51.8% |[Solution](problems/981.md) |
+|392|1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | <span style="color:red">Hard</span>| 33.4% |[Solution](problems/1153.md) |
+|393|843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | <span style="color:red">Hard</span>| 45.1% |[Solution](problems/843.md) |
+|394|1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | <span style="color:#FABC60">Medium</span> | 60.2% |[Solution](problems/1087.md) |
+|395|1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | <span style="color:red">Hard</span>| 59.2% |[Solution](problems/1096.md) |
+|396|1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | <span style="color:red">Hard</span>| 49.7% |[Solution](problems/1231.md) |
+|397|315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | <span style="color:red">Hard</span>| 39.7% |[Solution](problems/315.md) |
+|398|753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | <span style="color:red">Hard</span>| 48.6% |[Solution](problems/753.md) |
+|399|943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | <span style="color:red">Hard</span>| 40.3% |[Solution](problems/943.md) |
+|400|642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | <span style="color:red">Hard</span>| 40.6% |[Solution](problems/642.md) |

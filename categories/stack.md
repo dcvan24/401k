@@ -16,5 +16,6 @@ Stack
 |844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | <span style="color:green">Easy</span> | 45.8% |[Solution](../problems/844.md)| |
 |1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | <span style="color:green">Easy</span> | 77.4% | [Solution](../problems/1021.md)| + |
 |1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | <span style="color:green">Easy</span> | 64.7% |[Solution](../problems/1047.md) |
+|1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | <span style="color:red">Hard</span>| 59.2% |[Solution](../problems/1096.md) | | 
 |1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii) | <span style="color:#FABC60">Medium</span> | 58.1% |[Solution](../problems/1209.md) |
 

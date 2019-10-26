@@ -20,7 +20,7 @@ Depth-First Search
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | <span style="color:#FABC60">Medium</span> | 39.7% |[Solution](../problems/236.md) |
 |257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <span style="color:green">Easy</span> | 45.7%	|[Solution](../problems/257.md)| |
 |261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) | <span style="color:#FABC60">Medium</span> | 40.5% |[Solution](../problems/261.md) | |
-|263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | <span style="color:green">Easy</span>| 40.5% |[Solution](problems/263.md)||
+|263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | <span style="color:green">Easy</span>| 40.5% |[Solution](../problems/263.md)||
 |301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | <span style="color:red">Hard</span> | 40.2% |[Solution](../problems/301.md) |
 |332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](../problems/332.md)| + |
 |386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | <span style="color:#FABC60">Medium</span>  | 45.7% |[Solution](../problems/386.md)||

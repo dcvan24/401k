@@ -20,7 +20,11 @@ Strings
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | <span style="color:green">Easy</span> | 44.7% |[Solution](../problems/415.md) | |
 | 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | <span style="color:#FABC60">Medium</span> | 46.3% |[Solution](../problems/536.md) | |
 | 539  | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | <span style="color:#FABC60">Medium</span> | 47.8% | [Solution](../problems/539.md)| |
+| 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/) | <span style="color:#FABC60">Medium</span> | 45.0% |[Solution](../problems/809.md) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | <span style="color:green">Easy</span>| 66.6% |[Solution](../problems/811.md) |
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | <span style="color:green">Easy</span> | 58.7% |[Solution](../problems/824.md) ||
 | 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | <span style="color:#FABC60">Medium</span>  | 70.8% |[Solution](../problems/890.md)||
+| 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | <span style="color:red">Hard</span>| 40.3% |[Solution](../problems/943.md) |
+| 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | <span style="color:#FABC60">Medium</span> | 60.2% |[Solution](../problems/1087.md) |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | <span style="color:red">Hard</span>| 59.2% |[Solution](../problems/1096.md) |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | <span style="color:green">Easy</span>| 59.6% |[Solution](../problems/1170.md) |
