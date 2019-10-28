@@ -407,3 +407,12 @@
 |398|753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | <span style="color:red">Hard</span>| 48.6% |[Solution](problems/753.md) |
 |399|943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | <span style="color:red">Hard</span>| 40.3% |[Solution](problems/943.md) |
 |400|642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | <span style="color:red">Hard</span>| 40.6% |[Solution](problems/642.md) |
+|401|818 | [Race Car](https://leetcode.com/problems/race-car/) | <span style="color:red">Hard</span>| 36.9% |[Solution](problems/818.md) |
+|402|947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | <span style="color:#FABC60">Medium</span> | 54.8% |[Solution](problems/947.md) |
+|403|951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | <span style="color:#FABC60">Medium</span> | 65.1% |[Solution](problems/951.md) |
+|404|727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | <span style="color:red">Hard</span>| 39.0% |[Solution](problems/727.md) |
+|405|855 | [Exam Room](https://leetcode.com/problems/exam-room/) | <span style="color:#FABC60">Medium</span> | 40.0% |[Solution](problems/855.md) |
+|406|853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | <span style="color:#FABC60">Medium</span> | 41.3% |[Solution](problems/853.md) |
+|407|857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | <span style="color:red">Hard</span>| 48.7% |[Solution](problems/857.md) |
+|408|482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | <span style="color:green">Easy</span>| 41.9% |[Solution](problems/482.md) |
+|409|489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | <span style="color:red">Hard</span>| 66.7% |[Solution](problems/489.md) |

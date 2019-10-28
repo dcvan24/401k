@@ -24,6 +24,7 @@ Breadth-First Search
 | 637  | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | <span style="color:green">Easy</span> | 58.5% |[Solution](../problems/637.md)| |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | <span style="color:green">Easy</span> | 53.9% |[Solution](../problems/690.md)||
 | 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | <span style="color:green">Easy</span> | 56.2% | [Solution](../problems/784.md)| |
+| 818 | [Race Car](https://leetcode.com/problems/race-car/) | <span style="color:red">Hard</span>| 36.9% |[Solution](../problems/818.md) | + |
 | 863 |[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | <span style="color:#FABC60">Medium</span> | 50.1% |[Solution](../problems/863.md) | + |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | <span style="color:#FABC60">Medium</span> | 57.7% |[Solution](../problems/865.md) ||
 | 958 |[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | <span style="color:#FABC60">Medium</span> | 48.7% |[Solution](../problems/958.md) | + |

@@ -21,8 +21,9 @@ Dynamic Programming
 | 523  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | <span style="color:#FABC60">Medium</span> | 24.2% |[Solution](../problems/523.md)| + |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | <span style="color:#FABC60">Medium</span>| 57.3% |[Solution](../problems/647.md) | + |
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | <span style="color:red">Hard</span> | 44.4% |[Solution](../problems/689.md) | + |
+| 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | <span style="color:red">Hard</span>| 39.0% |[Solution](../problems/727.md) |
 | 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | <span style="color:#FABC60">Medium</span>  | 32.3% |[Solution](../problems/823.md)| | 
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | <span style="color:#FABC60">Medium</span>  | 47.4% |[Solution](../problems/1024.md)| |
 | 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | <span style="color:#FABC60">Medium</span> | 48.6% |[Solution](../problems/1027.md)| + |
-| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | <span style="color:#FABC60">Medium</span> | 57.1% |[Solution](../problems/1143.md) |
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | <span style="color:red">Hard</span>| 52.8% |[Solution](../problems/1066.md) |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | <span style="color:#FABC60">Medium</span> | 57.1% |[Solution](../problems/1143.md) |

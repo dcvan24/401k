@@ -12,6 +12,8 @@ Heap
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | <span style="color:#FABC60">Medium</span>| 45.2% |[Solution](../problems/621.md)| + |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | <span style="color:red">Hard</span> | 49.2% |[Solution](../problems/652.md) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | <span style="color:#FABC60">Medium</span> | 46.2% |[Solution](../problems/692.md) | + |
+| 855 | [Exam Room](https://leetcode.com/problems/exam-room/) | <span style="color:#FABC60">Medium</span> | 40.0% |[Solution](../problems/855.md) |
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | <span style="color:red">Hard</span>| 48.7% |[Solution](../problems/857.md) |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | <span style="color:#FABC60">Medium</span> | 62.0% |[Solution](../problems/973.md)| + |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | <span style="color:#FABC60">Medium</span> | 63.9% |[Solution](../problems/986.md) |
 | 1057 | [Campus Bikes](https://leetcode.com/problems/campus-bikes/) | <span style="color:#FABC60">Medium</span> | 58.4% |[Solution](../problems/1057.md) |
