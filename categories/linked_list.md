@@ -8,6 +8,7 @@ Linked List
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | <span style="color:#FABC60">Medium</span> | 34.2% |[Solution](../problems/19.md)| |
 | 21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <span style="color:green">Easy</span>  | 48.9% |[Solution](../problems/21.md) ||
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | <span style="color:red">Hard</span> | 35.1% |[Solution](../problems/23.md)| |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | <span style="color:red">Hard</span> | 37.1% |[Solution](../problems/25.md)||
 | 109 |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | <span style="color:#FABC60">Medium</span> | 42.5% |[Solution](../problems/109.md) |
 | 114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | <span style="color:#FABC60">Medium</span> |42.0%| [Solution](../problems/114.md)| + |
 | 138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <span style="color:#FABC60">Medium</span> | 28.8% |[Solution](../problems/138.md) | |
@@ -19,3 +20,5 @@ Linked List
 | 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) |<span style="color:#FABC60">Medium</span>   | 54.1% |[Solution](../problems/426.md) ||
 | 430  | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | <span style="color:#FABC60">Medium</span> | 41.7% | [Solution](../problems/430.md)| + |
 | 708 |[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | <span style="color:#FABC60">Medium</span> | 30.2% |[Solution](../problems/708.md) | | 
+| ts2 | Convert Array to Circular Linked List | | |[Solution](../problems/ts2.md) |
+| ts3 | Generate Sublists of A Circular Linked List | | |[Solution](../problems/ts3.md) |

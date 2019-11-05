@@ -18,6 +18,7 @@ Strings
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | <span style="color:#FABC60">Medium</span>  | 45.7% |[Solution](../problems/386.md)||
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | <span style="color:green">Easy</span>   | 45.3% |[Solution](../problems/401.md)|+|
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | <span style="color:green">Easy</span> | 44.7% |[Solution](../problems/415.md) | |
+| 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | <span style="color:#FABC60">Medium</span> | 21.4% |[Solution](../problems/468.md)||
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | <span style="color:green">Easy</span>| 41.9% |[Solution](../problems/482.md) |
 | 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | <span style="color:#FABC60">Medium</span> | 46.3% |[Solution](../problems/536.md) | |
 | 539  | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | <span style="color:#FABC60">Medium</span> | 47.8% | [Solution](../problems/539.md)| |

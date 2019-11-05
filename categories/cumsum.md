@@ -4,6 +4,7 @@ Cumulative Sum
 ### Problems
 | #   | Title    |   Difficulty | Acceptance |Solution  | Attention |
 | --- | --- | --- | --- | --- | --- |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <span style="color:green">Easy</span> | 43.8% |[Solution](../problems/53.md) || 
 | 304 |[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | <span style="color:#FABC60">Medium</span> | 34.0% |[Solution](../problems/304.md) | + | 
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | <span style="color:red">Hard</span>| 43.1% |[Solution](../problems/410.md) | + |
 | 523  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | <span style="color:#FABC60">Medium</span> | 24.2% |[Solution](../problems/523.md)| + |

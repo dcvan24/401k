@@ -13,3 +13,4 @@ Pointer
 |283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | <span style="color:green">Easy</span> | 55.2% |[Solution](../problems/283.md) | |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | <span style="color:green">Easy</span> | 46.6%	|[Solution](../problems/392.md)| + |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | <span style="color:#FABC60">Medium</span>| 57.3% |[Solution](../problems/647.md) | + |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | <span style="color:green">Easy</span> | 45.8% |[Solution](../problems/844.md)||

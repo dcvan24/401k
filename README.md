@@ -416,3 +416,14 @@
 |407|857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | <span style="color:red">Hard</span>| 48.7% |[Solution](problems/857.md) |
 |408|482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | <span style="color:green">Easy</span>| 41.9% |[Solution](problems/482.md) |
 |409|489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | <span style="color:red">Hard</span>| 66.7% |[Solution](problems/489.md) |
+|410|767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | <span style="color:#FABC60">Medium</span> | 44.6% |[Solution](problems/767.md) |
+|411|935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | <span style="color:#FABC60">Medium</span> | 42.6% |[Solution](problems/935.md) |
+|412|477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | <span style="color:#FABC60">Medium</span> | 49.9% |[Solution](problems/935.md) |
+|413|32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | <span style="color:red">Hard</span>| 26.6% |[Solution](problems/32.md) |
+|414|277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | <span style="color:#FABC60">Medium</span> | 38.8% |[Solution](problems/277.md) |
+|415|342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | <span style="color:green">Easy</span>| 40.8% |[Solution](problems/342.md) |
+|416|ts1 | Non-Repeating Random Number Generator | | |[Solution](problems/ts1.md) |
+|417|ts2 | Convert Array to Circular Linked List | | |[Solution](problems/ts2.md) |
+|418|ts3 | Generate Sublists of A Circular Linked List | | |[Solution](problems/ts3.md) |
+|419|ts4 | Convert to Non-Decreasing Array with Minimum Changes | | |[Solution](problems/ts4.md) |
+|420|ts5 | Token Bucket Algorithm | | |[Solution](problems/ts5.md) |

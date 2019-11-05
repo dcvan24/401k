@@ -5,6 +5,7 @@ Dynamic Programming
 | #   | Title    |   Difficulty | Acceptance |Solution  | Attention |
 | --- | --- | --- | --- | --- | --- |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | <span style="color:#FABC60">Medium</span> | 27.6% |[Solution](../problems/5.md)| + |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | <span style="color:red">Hard</span>| 26.6% |[Solution](../problems/32.md) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | <span style="color:#FABC60">Medium</span> | 31.8% |[Solution](../problems/55.md)| + |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | <span style="color:#FABC60">Medium</span> | 48.1% |[Solution](../problems/62.md)
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | <span style="color:red">Hard</span> | 34.6% |[Solution](../problems/85.md) | |
@@ -27,3 +28,4 @@ Dynamic Programming
 | 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | <span style="color:#FABC60">Medium</span> | 48.6% |[Solution](../problems/1027.md)| + |
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | <span style="color:red">Hard</span>| 52.8% |[Solution](../problems/1066.md) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | <span style="color:#FABC60">Medium</span> | 57.1% |[Solution](../problems/1143.md) |
+| ts4 | Convert to Non-Decreasing Array with Minimum Changes | | |[Solution](../problems/ts4.md) |
