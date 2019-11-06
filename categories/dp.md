@@ -28,4 +28,5 @@ Dynamic Programming
 | 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | <span style="color:#FABC60">Medium</span> | 48.6% |[Solution](../problems/1027.md)| + |
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | <span style="color:red">Hard</span>| 52.8% |[Solution](../problems/1066.md) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | <span style="color:#FABC60">Medium</span> | 57.1% |[Solution](../problems/1143.md) |
+| 1216 | [Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/) | <span style="color:red">Hard</span> | 42.0% |[Solution](../problems/1216.md) |
 | ts4 | Convert to Non-Decreasing Array with Minimum Changes | | |[Solution](../problems/ts4.md) |

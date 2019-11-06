@@ -27,6 +27,7 @@ Depth-First Search
 |529 | [Minesweeper](https://leetcode.com/problems/minesweeper) | <span style="color:#FABC60">Medium</span> | 54.5% |[Solution](../problems/529.md) | |
 |543 |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <span style="color:green">Easy</span>  | 47.4% |[Solution](../problems/543.md) | + |
 |565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | <span style="color:#FABC60">Medium</span> | 52.4% |[Solution](../problems/565.md)||
+|691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | <span style="color:red">Hard</span> | 40.3% |[Solution](../problems/691.md) |
 |698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | <span style="color:#FABC60">Medium</span> | 43.0% |[Solution](../problems/698.md)| + |
 |721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) |<span style="color:#FABC60">Medium</span>   | 42.4% |[Solution](../problems/721.md) | | 
 |785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |<span style="color:#FABC60">Medium</span>   | 44.5% |[Solution](../problems/785.md) | |

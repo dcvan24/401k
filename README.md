@@ -427,3 +427,10 @@
 |418|ts3 | Generate Sublists of A Circular Linked List | | |[Solution](problems/ts3.md) |
 |419|ts4 | Convert to Non-Decreasing Array with Minimum Changes | | |[Solution](problems/ts4.md) |
 |420|ts5 | Token Bucket Algorithm | | |[Solution](problems/ts5.md) |
+|421|1216 | [Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/) | <span style="color:red">Hard</span> | 42.0% |[Solution](problems/1216.md) |
+|422 |319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | <span style="color:#FABC60">Medium</span> | 44.6% |[Solution](problems/319.md) |
+|423|358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) | <span style="color:red">Hard</span> | 33.9% |[Solution](problems/358.md) |
+|424|405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | <span style="color:green">Easy</span> | 42.7% |[Solution](problems/405.md) |
+|425|691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | <span style="color:red">Hard</span> | 40.3% |[Solution](problems/691.md) |
+|426|670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | <span style="color:#FABC60">Medium</span> | 41.1% |[Solution](problems/670.md) |
+
