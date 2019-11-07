@@ -8,6 +8,8 @@ Breadth-First Search
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | <span style="color:#FABC60">Medium</span> | 52.5% |[Solution](../problems/78.md)||
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | <span style="color:#FABC60">Medium</span> | 49.1% |[Solution](../problems/149.md)
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | <span style="color:#FABC60">Medium</span>| 38.5% |[Solution](../problems/116.md)||
+| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | <span style="color:red">Hard</span> | 18.3% |[Solution](../problems/126.md) | + |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | <span style="color:#FABC60">Medium</span> | 24.9% | [Solution](../problems/127.md)
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | <span style="color:#FABC60">Medium</span> | 27.2% |[Solution](../problems/133.md)| + |
 | 138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <span style="color:#FABC60">Medium</span> | 28.8% |[Solution](../problems/138.md) | + | 
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii) | <span style="color:red">Hard</span> | 27.7% |[Solution](../problems/140.md)| + |

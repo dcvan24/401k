@@ -11,6 +11,8 @@ Depth-First Search
 |78 | [Subsets](https://leetcode.com/problems/subsets/) | <span style="color:#FABC60">Medium</span> | 52.5% |[Solution](../problems/78.md)||
 |79   |  [Word Search](https://leetcode.com/problems/word-search/) | <span style="color:#FABC60">Medium</span> |31.0%|[Solution](../problems/79.md)| |
 |93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](../problems/93.md)| |
+|112 | [Path Sum](https://leetcode.com/problems/path-sum/) | <span style="color:green">Easy</span> | 38.2% | [Solution](../problems/112.md) ||
+|113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | <span style="color:#FABC60">Medium</span> | 41.3% |[Solution](../problems/113.md)
 |133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | <span style="color:#FABC60">Medium</span> | 27.2% |[Solution](../problems/133.md) | |
 |138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <span style="color:#FABC60">Medium</span> | 28.8% |[Solution](../problems/138.md) |
 |200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) |  <span style="color:#FABC60">Medium</span>  | 42.2% |[Solution](../problems/200.md) | |

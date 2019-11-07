@@ -129,9 +129,6 @@
 |124|746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | <span style="color:green">Easy</span> | 47.5% |[Solution](problems/746.md)
 |125|70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <span style="color:green">Easy</span> | 44.4% |[Solution](problems/70.md)
 |126|53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <span style="color:green">Easy</span> | 43.8% |[Solution](problems/53.md)
-|124|198 | [House Robber](https://leetcode.com/problems/house-robber/) | <span style="color:green">Easy</span> | 41.1% |[Solution](problems/198.md)
-|125|303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | <span style="color:green">Easy</span> | 38.4% |[Solution](problems/303.md)
-|126|338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | <span style="color:#FABC60">Medium</span>| 65.0% |[Solution](problems/338.md)
 |127|931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | <span style="color:#FABC60">Medium</span>| 58.9% |[Solution](problems/931.md)
 |128|647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | <span style="color:#FABC60">Medium</span>| 57.3% |[Solution](problems/647.md)
 |129|413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | <span style="color:#FABC60">Medium</span>| 56.0% |[Solution](problems/413.md)
@@ -240,7 +237,7 @@
 |232|81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |  <span style="color:#FABC60">Medium</span>  | 32.7% |[Solution](problems/81.md)
 |233|200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) |  <span style="color:#FABC60">Medium</span>  | 42.2% |[Solution](problems/200.md)
 |234|148 | [Sort List](https://leetcode.com/problems/sort-list/) |  <span style="color:#FABC60">Medium</span>  | 36.3% |[Solution](problems/148.md)
-|235|394 | [Decode String](https://leetcode.com/problems/decode-string/) |  <span style="color:#FABC60">Medium</span>  | 45.6% |[Solution](problems/235.md)
+|235|394 | [Decode String](https://leetcode.com/problems/decode-string/) |  <span style="color:#FABC60">Medium</span>  | 45.6% |[Solution](problems/394.md)
 |236|141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |  <span style="color:green">Easy</span> | 37.6% |[Solution](problems/141.md)
 |237|142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |  <span style="color:#FABC60">Medium</span>  | 32.8% |[Solution](problems/142.md)
 |238|287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |  <span style="color:#FABC60">Medium</span>  | 50.4% |[Solution](problems/287.md)
@@ -272,7 +269,7 @@
 |264|695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | <span style="color:#FABC60">Medium</span> | 58.1% |[Solution](problems/695.md)
 |265|224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | <span style="color:red">Hard</span>  | 33.5% |[Solution](problems/224.md)
 |266|227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | <span style="color:#FABC60">Medium</span>  | 34.1% |[Solution](problems/227.md)
-|267|228 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | <span style="color:red">Hard</span> | 33.2% |[Solution](problems/282.md)
+|267|282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | <span style="color:red">Hard</span> | 33.2% |[Solution](problems/282.md)
 |268|241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | <span style="color:#FABC60">Medium</span> | 50.9% |[Solution](problems/241.md)
 |269|395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | <span style="color:#FABC60">Medium</span> | 39.1% |[Solution](problems/395.md)
 |270|4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | <span style="color:red">Hard</span> | 27.0% |[Solution](problems/4.md)
@@ -418,7 +415,7 @@
 |409|489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | <span style="color:red">Hard</span>| 66.7% |[Solution](problems/489.md) |
 |410|767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | <span style="color:#FABC60">Medium</span> | 44.6% |[Solution](problems/767.md) |
 |411|935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | <span style="color:#FABC60">Medium</span> | 42.6% |[Solution](problems/935.md) |
-|412|477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | <span style="color:#FABC60">Medium</span> | 49.9% |[Solution](problems/935.md) |
+|412|477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | <span style="color:#FABC60">Medium</span> | 49.9% |[Solution](problems/477.md) |
 |413|32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | <span style="color:red">Hard</span>| 26.6% |[Solution](problems/32.md) |
 |414|277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | <span style="color:#FABC60">Medium</span> | 38.8% |[Solution](problems/277.md) |
 |415|342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | <span style="color:green">Easy</span>| 40.8% |[Solution](problems/342.md) |
@@ -433,4 +430,7 @@
 |424|405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | <span style="color:green">Easy</span> | 42.7% |[Solution](problems/405.md) |
 |425|691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | <span style="color:red">Hard</span> | 40.3% |[Solution](problems/691.md) |
 |426|670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | <span style="color:#FABC60">Medium</span> | 41.1% |[Solution](problems/670.md) |
-
+|427|198 | [House Robber](https://leetcode.com/problems/house-robber/) | <span style="color:green">Easy</span> | 41.1% |[Solution](problems/198.md)
+|428|303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | <span style="color:green">Easy</span> | 38.4% |[Solution](problems/303.md)
+|429|338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | <span style="color:#FABC60">Medium</span>| 65.0% |[Solution](problems/338.md)
+|430|921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | <span style="color:#FABC60">Medium</span>| 70.8% |[Solution](problems/921.md)

@@ -8,12 +8,15 @@ Dynamic Programming
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | <span style="color:red">Hard</span>| 26.6% |[Solution](../problems/32.md) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | <span style="color:#FABC60">Medium</span> | 31.8% |[Solution](../problems/55.md)| + |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | <span style="color:#FABC60">Medium</span> | 48.1% |[Solution](../problems/62.md)
+|70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | <span style="color:green">Easy</span> | 44.4% |[Solution](../problems/70.md) ||
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | <span style="color:red">Hard</span> | 34.6% |[Solution](../problems/85.md) | |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | <span style="color:#FABC60">Medium</span> | 22.5% |[Solution](../problems/91.md) ||
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | <span style="color:red">Hard</span>| 29.1% |[Solution](../problems/97.md) | |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <span style="color:green">Easy</span>   | 47.0% |[Solution](../problems/121.md)||
+|122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | <span style="color:green">Easy</span> | 52.3% |[Solution](../problems/122.md) ||
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | <span style="color:#FABC60">Medium</span> | 35.9% |[Solution](../problems/139.md)||
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii) | <span style="color:red">Hard</span> | 27.7% |[Solution](../problems/140.md)| + |
+| 161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | <span style="color:#FABC60">Medium</span> | 31.9% |[Solution](problems/161.md) | + |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | <span style="color:#FABC60">Medium</span> | 33.5% |[Solution](../problems/221.md)||
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | <span style="color:#FABC60">Medium</span> | 55.4% |[Solution](../problems/238.md)||
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | <span style="color:#FABC60">Medium</span> | 41.1% |[Solution](../problems/300.md)| + |
@@ -24,6 +27,7 @@ Dynamic Programming
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | <span style="color:red">Hard</span> | 44.4% |[Solution](../problems/689.md) | + |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | <span style="color:red">Hard</span>| 39.0% |[Solution](../problems/727.md) |
 | 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | <span style="color:#FABC60">Medium</span>  | 32.3% |[Solution](../problems/823.md)| | 
+| 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | <span style="color:#FABC60">Medium</span> | 42.6% |[Solution](../problems/935.md) |
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | <span style="color:#FABC60">Medium</span>  | 47.4% |[Solution](../problems/1024.md)| |
 | 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | <span style="color:#FABC60">Medium</span> | 48.6% |[Solution](../problems/1027.md)| + |
 | 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | <span style="color:red">Hard</span>| 52.8% |[Solution](../problems/1066.md) |

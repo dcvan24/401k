@@ -9,6 +9,7 @@ Binary Search
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | <span style="color:#FABC60">Medium</span> | 33.8% |[Solution](../problems/34.md)| + | 
 |69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | <span style="color:green">Easy</span> | 31.6% |[Solution](../problems/69.md)| |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <span style="color:#FABC60">Medium</span> | 35.1% |[Solution](../problems/74.md) || 
+|81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |  <span style="color:#FABC60">Medium</span>  | 32.7% |  [Solution](../problems/81.md)
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <span style="color:#FABC60">Medium</span> | 43.4% |[Solution](../problems/153.md) | + |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | <span style="color:#FABC60">Medium</span> | 41.6% |[Solution](../problems/162.md)
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | <span style="color:#FABC60">Medium</span> | 37.7% |[Solution](../problems/222.md) | + |
