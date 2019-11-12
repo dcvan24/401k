@@ -11,3 +11,4 @@ Palindrome
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | <span style="color:red">Hard</span> | 40.2% |[Solution](../problems/301.md) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | <span style="color:#FABC60">Medium</span>| 70.8% |[Solution](../problems/921.md)
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | <span style="color:green">Easy</span> | 77.4% | [Solution](../problems/1021.md)|
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | <span style="color:#FABC60">Medium</span> | 58.3% |[Solution](../problems/1249.md) | |

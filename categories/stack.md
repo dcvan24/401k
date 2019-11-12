@@ -10,6 +10,7 @@ Stack
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | <span style="color:red">Hard</span>  | 33.5% |[Solution](../problems/224.md)| + |
 |331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | <span style="color:#FABC60">Medium</span>  | 38.5% |[Solution](../problems/331.md)| |
 |339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) |<span style="color:green">Easy</span> | 69.6% |[Solution](../problems/339.md) |
+|341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | <span style="color:#FABC60">Medium</span> | 50.1% |[Solution](../problems/341.md)
 |364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | <span style="color:#FABC60">Medium</span> | 59.1% |[Solution](../problems/364.md) ||
 | 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | <span style="color:#FABC60">Medium</span> | 46.3% |[Solution](../problems/536.md) | |
 |636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | <span style="color:#FABC60">Medium</span> | 49.5% |[Solution](../problems/636.md) | | 

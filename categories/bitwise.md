@@ -6,6 +6,7 @@ Bitwise
 | --- | --- | --- | --- | --- | --- |
 |67 | [Add Binary](https://leetcode.com/problems/add-binary/) |<span style="color:green">Easy</span>  | 40.4% |[Solution](../problems/67.md) | |
 |136 | [Single Number](https://leetcode.com/problems/single-number/) | <span style="color:green">Easy</span> | 60.0% |[Solution](../problems/136.md) ||
+|137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | <span style="color:#FABC60">Medium</span> | 47.6% |[Solution](../problems/137.md)||
 |260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | <span style="color:#FABC60">Medium</span> | 56.9% | [Solution](../problems/260.md)
 |268 | [Missing Number](https://leetcode.com/problems/missing-number/) | <span style="color:green">Easy</span>  | 49.3% |[Solution](../problems/268.md) | |
 |461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | <span style="color:green">Easy</span> | 70.2% |[Solution](../problems/461.md)| |
@@ -18,5 +19,6 @@ Bitwise
 |1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | <span style="color:#FABC60">Medium</span>  | 55.6% |[Solution](../problems/1017.md)| +| 
 |1018  | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | <span style="color:green">Easy</span> | 45.9% |[Solution](../problems/1018.md)| |
 |1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | <span style="color:red">Hard</span>| 52.8% |[Solution](../problems/1066.md) |
+
 
 

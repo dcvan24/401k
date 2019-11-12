@@ -9,8 +9,10 @@ Binary Search Tree
 | 109 |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | <span style="color:#FABC60">Medium</span> | 42.5% |[Solution](../problems/109.md) |
 | 173  | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | <span style="color:#FABC60">Medium</span> | 48.2% |[Solution](../problems/173.md)|  |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | <span style="color:#FABC60">Medium</span> | 51.1% |[Solution](../problems/230.md)|  | 
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | <span style="color:green">Easy</span> | 46.9% |[Solution](../problems/235.md) ||
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | <span style="color:green">Easy</span> | 44.8% |[Solution](../problems/270.md) ||
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | <span style="color:#FABC60">Medium</span> | 36.3% |[Solution](../problems/285.md) |
 | 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) |<span style="color:#FABC60">Medium</span>   | 54.1% |[Solution](../problems/426.md) |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | <span style="color:green">Easy</span> | 50.3% |[Solution](../problems/530.md)| |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | <span style="color:green">Easy</span> | 78.1% |[Solution](../problems/938.md)||
+|1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | <span style="color:#FABC60">Medium</span> | 74.0% |[Solution](../problems/1008.md) ||

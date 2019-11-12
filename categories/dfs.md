@@ -13,6 +13,7 @@ Depth-First Search
 |93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](../problems/93.md)| |
 |112 | [Path Sum](https://leetcode.com/problems/path-sum/) | <span style="color:green">Easy</span> | 38.2% | [Solution](../problems/112.md) ||
 |113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | <span style="color:#FABC60">Medium</span> | 41.3% |[Solution](../problems/113.md)
+|129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | <span style="color:#FABC60">Medium</span> | 44.4% |[Solution](../problems/129.md) ||
 |133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | <span style="color:#FABC60">Medium</span> | 27.2% |[Solution](../problems/133.md) | |
 |138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <span style="color:#FABC60">Medium</span> | 28.8% |[Solution](../problems/138.md) |
 |200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) |  <span style="color:#FABC60">Medium</span>  | 42.2% |[Solution](../problems/200.md) | |
@@ -23,6 +24,7 @@ Depth-First Search
 |257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <span style="color:green">Easy</span> | 45.7%	|[Solution](../problems/257.md)| |
 |261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) | <span style="color:#FABC60">Medium</span> | 40.5% |[Solution](../problems/261.md) | |
 |263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | <span style="color:green">Easy</span>| 40.5% |[Solution](../problems/263.md)||
+|298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | <span style="color:#FABC60">Medium</span> | 45.2% |[Solution](../problems/298.md) |
 |301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | <span style="color:red">Hard</span> | 40.2% |[Solution](../problems/301.md) |
 |332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](../problems/332.md)| + |
 |386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | <span style="color:#FABC60">Medium</span>  | 45.7% |[Solution](../problems/386.md)||
@@ -30,7 +32,9 @@ Depth-First Search
 |543 |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <span style="color:green">Easy</span>  | 47.4% |[Solution](../problems/543.md) | + |
 |565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | <span style="color:#FABC60">Medium</span> | 52.4% |[Solution](../problems/565.md)||
 |691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | <span style="color:red">Hard</span> | 40.3% |[Solution](../problems/691.md) |
+|694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) | <span style="color:#FABC60">Medium</span> | 53.0% |[Solution](../problems/694.md)
 |698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | <span style="color:#FABC60">Medium</span> | 43.0% |[Solution](../problems/698.md)| + |
 |721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) |<span style="color:#FABC60">Medium</span>   | 42.4% |[Solution](../problems/721.md) | | 
+|742 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | <span style="color:#FABC60">Medium</span>| 41.1% |[Solution](../problems/742.md) | |
 |785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |<span style="color:#FABC60">Medium</span>   | 44.5% |[Solution](../problems/785.md) | |
 

@@ -17,6 +17,7 @@ Breadth-First Search
 | 257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | <span style="color:green">Easy</span> | 45.7%	|[Solution](../problems/257.md)|
 | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | <span style="color:red">Hard</span> | 32.1% |[Solution](../problems/269.md) | + |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | <span style="color:#FABC60">Medium</span> | 50.7% |[Solution](../problems/286.md) | |
+| 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | <span style="color:#FABC60">Medium</span> | 45.2% |[Solution](../problems/298.md) | |
 | 314 |[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | <span style="color:#FABC60">Medium</span> | 41.9% |[Solution](../problems/314.md) | |
 | 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | <span style="color:red">Hard</span> | 38.9% |[Solution](../problems/317.md) | | 
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | <span style="color:green">Easy</span> | 49.0% | [Solution](../problems/404.md)| |
@@ -25,6 +26,7 @@ Breadth-First Search
 | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii) | <span style="color:#FABC60">Medium</span> | 45.3% |[Solution](../problems/505.md) | + |
 | 637  | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | <span style="color:green">Easy</span> | 58.5% |[Solution](../problems/637.md)| |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | <span style="color:green">Easy</span> | 53.9% |[Solution](../problems/690.md)||
+| 742 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | <span style="color:#FABC60">Medium</span>| 41.1% |[Solution](../problems/742.md) | |
 | 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | <span style="color:green">Easy</span> | 56.2% | [Solution](../problems/784.md)| |
 | 818 | [Race Car](https://leetcode.com/problems/race-car/) | <span style="color:red">Hard</span>| 36.9% |[Solution](../problems/818.md) | + |
 | 863 |[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | <span style="color:#FABC60">Medium</span> | 50.1% |[Solution](../problems/863.md) | + |
@@ -32,3 +34,4 @@ Breadth-First Search
 | 958 |[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | <span style="color:#FABC60">Medium</span> | 48.7% |[Solution](../problems/958.md) | + |
 | 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | <span style="color:#FABC60">Medium</span> | 31.9% |[Solution](../problems/987.md)|  |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | <span style="color:#FABC60">Medium</span> | 64.2% |[Solution](../problems/1123.md) | + |
+| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | <span style="color:#FABC60">Medium</span> | 30.4% |[Solution](../problems/1197.md)

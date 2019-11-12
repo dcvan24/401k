@@ -17,6 +17,7 @@ Strings
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | <span style="color:#FABC60">Medium</span> | 50.9% |[Solution](../problems/241.md) | 
 | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number) | <span style="color:green">Easy</span> | 43.1% |[Solution](../problems/246.md) | | 
 | 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | <span style="color:#FABC60">Medium</span> | 45.6% |[Solution](../problems/247.md) | |
+|249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | <span style="color:#FABC60">Medium</span> | 50.4% |[Solution](../problems/249.md) | |
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | <span style="color:red">Hard</span> | 24.9% |[Solution](../problems/273.md) |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | <span style="color:#FABC60">Medium</span>  | 45.7% |[Solution](../problems/386.md)||
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | <span style="color:#FABC60">Medium</span> | 39.3% |[Solution](../problems/388.md)

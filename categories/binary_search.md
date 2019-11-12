@@ -24,6 +24,8 @@ Binary Search
 | 708 |[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | <span style="color:#FABC60">Medium</span> | 30.2% |[Solution](../problems/708.md) |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | <span style="color:red">Hard</span>| 30.0% |[Solution](../problems/719.md) | + | 
 | 911  | [Online Election](https://leetcode.com/problems/online-election/) | <span style="color:#FABC60">Medium</span> | 46.2% |[Solution](../problems/911.md)| |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | <span style="color:green">Easy</span> | 71.8% |[Solution](../problems/977.md)||
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | <span style="color:#FABC60">Medium</span> | 51.8% |[Solution](../problems/981.md) |
+| 1060 | [Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/) | <span style="color:#FABC60">Medium</span> | 53.4% |[Solution](../problems/1060.md) | + |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | <span style="color:green">Easy</span>| 59.6% |[Solution](../problems/1170.md) |
 |Lint183 | [Wood Cut](https://www.lintcode.com/problem/wood-cut/description) | <span style="color:red">Hard</span>| 27% |[Solution](../problems/lint183.md) | + |

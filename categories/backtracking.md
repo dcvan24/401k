@@ -5,6 +5,7 @@ Backtracking
 | #   | Title    |   Difficulty | Acceptance | Solution  | Attention |
 | --- | --- | --- | --- | --- | --- |
 |22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <span style="color:#FABC60">Medium</span> | 55.8% |[Solution](../problems/22.md)|
+|39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | <span style="color:#FABC60">Medium</span>  |49.4% |[Solution](../problems/39.md) ||
 |51 | [N-Queens](https://leetcode.com/problems/n-queens/) | <span style="color:red">Hard</span> | 40.4% |[Solution](../problems/51.md) ||
 |52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | <span style="color:red">Hard</span> | 52.9% |[Solution](../problems/52.md)||
 |79   |  [Word Search](https://leetcode.com/problems/word-search/) | <span style="color:#FABC60">Medium</span> |31.0%|[Solution](../problems/79.md)| |

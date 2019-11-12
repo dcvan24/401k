@@ -13,13 +13,14 @@ Dynamic Programming
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | <span style="color:#FABC60">Medium</span> | 22.5% |[Solution](../problems/91.md) ||
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | <span style="color:red">Hard</span>| 29.1% |[Solution](../problems/97.md) | |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <span style="color:green">Easy</span>   | 47.0% |[Solution](../problems/121.md)||
-|122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | <span style="color:green">Easy</span> | 52.3% |[Solution](../problems/122.md) ||
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | <span style="color:green">Easy</span> | 52.3% |[Solution](../problems/122.md) ||
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | <span style="color:#FABC60">Medium</span> | 35.9% |[Solution](../problems/139.md)||
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii) | <span style="color:red">Hard</span> | 27.7% |[Solution](../problems/140.md)| + |
 | 161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | <span style="color:#FABC60">Medium</span> | 31.9% |[Solution](problems/161.md) | + |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | <span style="color:#FABC60">Medium</span> | 33.5% |[Solution](../problems/221.md)||
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | <span style="color:#FABC60">Medium</span> | 55.4% |[Solution](../problems/238.md)||
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | <span style="color:#FABC60">Medium</span> | 41.1% |[Solution](../problems/300.md)| + |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | <span style="color:red">Hard</span> | 49.0% |[Solution](../problems/312.md) | | 
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | <span style="color:#FABC60">Medium</span> | 31.1% |[Solution](../problems/322.md)||
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | <span style="color:#FABC60">Medium</span> | 41.2% |[Solution](../problems/416.md)
 | 523  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | <span style="color:#FABC60">Medium</span> | 24.2% |[Solution](../problems/523.md)| + |

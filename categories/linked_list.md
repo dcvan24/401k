@@ -18,6 +18,7 @@ Linked List
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | <span style="color:green">Easy</span> | 	35.7% |[Solution](../problems/203.md)||
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <span style="color:green">Easy</span> | 55.6% |[Solution](../problems/206.md)||
 | 234 |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | <span style="color:green">Easy</span>  | 37.0% |[Solution](../problems/234.md) ||
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | <span style="color:#FABC60">Medium</span> | 51.0% |[Solution](../problems/328.md) ||
 | 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) |<span style="color:#FABC60">Medium</span>   | 54.1% |[Solution](../problems/426.md) ||
 | 430  | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | <span style="color:#FABC60">Medium</span> | 41.7% | [Solution](../problems/430.md)| + |
 | 708 |[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | <span style="color:#FABC60">Medium</span> | 30.2% |[Solution](../problems/708.md) | | 
