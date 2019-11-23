@@ -463,3 +463,6 @@
 |456|378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | <span style="color:#FABC60">Medium</span> | 51.3% |[Solution](problems/378.md) |
 |457|328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | <span style="color:#FABC60">Medium</span> | 51.0% |[Solution](problems/328.md) |
 |458|54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | <span style="color:#FABC60">Medium</span> | 31.9% |[Solution](problems/54.md) |
+|459|237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | <span style="color:green">Easy</span> | 56.6% |[Solution](problems/237.md) |
+|460|123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | <span style="color:red">Hard</span> | 35.3% |[Solution](problems/123.md) |
+|461|778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | <span style="color:red">Hard</span> | 49.8% |[Solution](problems/778.md) |

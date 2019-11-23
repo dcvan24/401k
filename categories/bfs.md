@@ -27,6 +27,7 @@ Breadth-First Search
 | 637  | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | <span style="color:green">Easy</span> | 58.5% |[Solution](../problems/637.md)| |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | <span style="color:green">Easy</span> | 53.9% |[Solution](../problems/690.md)||
 | 742 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | <span style="color:#FABC60">Medium</span>| 41.1% |[Solution](../problems/742.md) | |
+|778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | <span style="color:red">Hard</span> | 49.8% |[Solution](../problems/778.md) | | 
 | 784  | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | <span style="color:green">Easy</span> | 56.2% | [Solution](../problems/784.md)| |
 | 818 | [Race Car](https://leetcode.com/problems/race-car/) | <span style="color:red">Hard</span>| 36.9% |[Solution](../problems/818.md) | + |
 | 863 |[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | <span style="color:#FABC60">Medium</span> | 50.1% |[Solution](../problems/863.md) | + |

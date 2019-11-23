@@ -15,6 +15,7 @@ Heap
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | <span style="color:red">Hard</span> | 49.2% |[Solution](../problems/652.md) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | <span style="color:#FABC60">Medium</span> | 46.2% |[Solution](../problems/692.md) | + |
 | 767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | <span style="color:#FABC60">Medium</span> | 44.6% |[Solution](../problems/767.md) |
+|778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | <span style="color:red">Hard</span> | 49.8% |[Solution](../problems/778.md) |
 | 855 | [Exam Room](https://leetcode.com/problems/exam-room/) | <span style="color:#FABC60">Medium</span> | 40.0% |[Solution](../problems/855.md) |
 | 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | <span style="color:red">Hard</span>| 48.7% |[Solution](../problems/857.md) |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | <span style="color:#FABC60">Medium</span> | 62.0% |[Solution](../problems/973.md)| + |

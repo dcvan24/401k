@@ -7,7 +7,6 @@ Depth-First Search
 |37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | <span style="color:red">Hard</span> | 38.0% |[Solution](../problems/37.md)| + |
 |46 | [Permutations](https://leetcode.com/problems/permutations/) | <span style="color:#FABC60">Medium</span> | 55.7% |[Solution](../problems/46.md)||
 |47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | <span style="color:#FABC60">Medium</span> | 41.2% |[Solution](../problems/47.md) ||
-|77 | [Combinations](https://leetcode.com/problems/combinations/) | <span style="color:#FABC60">Medium</span>  | 48.5% |[Solution](../problems/77.md)
 |78 | [Subsets](https://leetcode.com/problems/subsets/) | <span style="color:#FABC60">Medium</span> | 52.5% |[Solution](../problems/78.md)||
 |79   |  [Word Search](https://leetcode.com/problems/word-search/) | <span style="color:#FABC60">Medium</span> |31.0%|[Solution](../problems/79.md)| |
 |93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](../problems/93.md)| |
@@ -29,7 +28,6 @@ Depth-First Search
 |332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | <span style="color:#FABC60">Medium</span> | 31.3% |[Solution](../problems/332.md)| + |
 |386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | <span style="color:#FABC60">Medium</span>  | 45.7% |[Solution](../problems/386.md)||
 |529 | [Minesweeper](https://leetcode.com/problems/minesweeper) | <span style="color:#FABC60">Medium</span> | 54.5% |[Solution](../problems/529.md) | |
-|543 |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <span style="color:green">Easy</span>  | 47.4% |[Solution](../problems/543.md) | + |
 |565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | <span style="color:#FABC60">Medium</span> | 52.4% |[Solution](../problems/565.md)||
 |691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | <span style="color:red">Hard</span> | 40.3% |[Solution](../problems/691.md) |
 |694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) | <span style="color:#FABC60">Medium</span> | 53.0% |[Solution](../problems/694.md)
