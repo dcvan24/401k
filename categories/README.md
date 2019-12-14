@@ -1,0 +1,74 @@
+Categories
+===
+- [Hashing](hashing.md)
+  - [Reverse indexing](reverse_indexing.md)
+- [Sorting](sorting.md)
+  - [Quickselect](quicksort.md)
+- [Counting](counting.md)
+- [Stack](stack.md)
+  - [Monotonic stack](monotonic_stack.md)
+- [Linked list](linked_list.md)
+  - Merge
+  - Removal
+  - Reversal
+  - Swap
+- Tree
+  - [Basics](../categories/tree.md)
+  - [In-order traversal](tree_inorder.md)
+  - [Pre-order traversal](tree_preorder.md)
+  - [Post-order traversal](tree_postorder.md)
+  - [Level-order traversal](tree_level_order.md)
+  - [Lowest common ancestor](lca.md)
+  - Morris traversal
+- [Binary search tree](bst.md)
+- [Binary search](binary_search.md)
+- [Depth-first search](dfs.md)
+- [Breadth-first search](bfs.md)
+  - A* search
+- [Backtracking](backtracking.md)
+- [Heap](heap.md)
+- [Reverse indexing](reverse_indexing.md)
+- [Prefix (cumulative) sum](cumsum.md)
+- [Bitwise operations](bitwise.md)
+  - Bit masking
+- Graph
+  - [Basics](graph.md)
+  - [Cycle detection (Floyd's)](floyd_cycle_detection.md)
+  - [Topological sort (Kahn's)](topological_sort.md)
+  - [Dijkstra's shortest path](dijkstra.md)
+  - [Hamilton path (Hierholzer's)](hamiltonian_path.md)
+- [Sliding window](sliding_window.md)
+- [Union find](union_find.md)
+- [Dynamic programming](dp.md)
+  - Top-down (memoization)
+  - Bottom-up
+- [String](strings.md)
+  - Indexing
+  - Appending
+  - Prepending
+- [Matrix](matrix.md)
+  - Transpose
+  - Diagonal/off-diagonal
+  - Multiplication
+  - Sparse matrix
+- [Trie](trie.md)
+- [Segment tree](segment_tree.md)
+- Binary index tree/Fenwick tree
+- Suffix array
+
+### Topics
+- [Anagram](anagram.md)
+- [Intervals](interval.md)
+- [Palindrome](palindrome.md)
+- [Permutation](permutation.md)
+- [Parentheses](parentheses.md)
+
+- [Spiral](spiral.md)
+- [K-way merge](k-way.md)
+- [Minimax](minimax.md)
+- [Expression evaluation](equation.md)
+- [Randomization](random.md)
+  - Fisher-Yates shuffling
+- [Reservoir sampling](reservoir_sampling.md)
+- [Greedy](greedy.md)
+

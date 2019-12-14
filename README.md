@@ -466,3 +466,6 @@
 |459|237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | <span style="color:green">Easy</span> | 56.6% |[Solution](problems/237.md) |
 |460|123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | <span style="color:red">Hard</span> | 35.3% |[Solution](problems/123.md) |
 |461|778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | <span style="color:red">Hard</span> | 49.8% |[Solution](problems/778.md) |
+|462|299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | <span style="color:green">Easy</span> | 40.9% |[Solution](problems/299.md) |
+|463|552 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | <span style="color:red">Hard</span> | 34.6% |[Solution](problems/552.md) |
+|464|659 | [Split Array into Consecutive Subsequence](https://leetcode.com/problems/spiral-matrix/) | <span style="color:#FABC60">Medium</span> | 42.3% |[Solution](problems/659.md) |

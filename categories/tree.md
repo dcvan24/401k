@@ -12,7 +12,7 @@ Tree General
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | <span style="color:#FABC60">Medium</span> | 39.7% |[Solution](../problems/236.md) | + |
 | 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | <span style="color:#FABC60">Medium</span> | 46.3% |[Solution](../problems/536.md) | |
 | 549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | <span style="color:#FABC60">Medium</span> | 45.0% |[Solution](../problems/549.md) | | 
+| 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | <span style="color:green">Easy</span> | 65.3% |[Solution](../problems/559.md)| |
 | 742 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | <span style="color:#FABC60">Medium</span>| 41.1% |[Solution](../problems/742.md) | |
 | 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | <span style="color:#FABC60">Medium</span> | 65.1% |[Solution](../problems/951.md) | + |
-| 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | <span style="color:#FABC60">Medium</span> | 31.9% |[Solution](../problems/987.md)| + |
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | <span style="color:#FABC60">Medium</span> | 64.0% |[Solution](../problems/1110.md) | | 

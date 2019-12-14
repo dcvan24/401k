@@ -31,4 +31,5 @@ Binary Search
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | <span style="color:#FABC60">Medium</span> | 51.8% |[Solution](../problems/981.md) |
 | 1060 | [Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/) | <span style="color:#FABC60">Medium</span> | 53.4% |[Solution](../problems/1060.md) | + |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | <span style="color:green">Easy</span>| 59.6% |[Solution](../problems/1170.md) |
+| 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | <span style="color:red">Hard</span>| 49.7% |[Solution](../problems/1231.md) | + |
 |Lint183 | [Wood Cut](https://www.lintcode.com/problem/wood-cut/description) | <span style="color:red">Hard</span>| 27% |[Solution](../problems/lint183.md) | + |
